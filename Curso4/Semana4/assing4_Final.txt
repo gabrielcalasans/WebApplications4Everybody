@@ -1,0 +1,3 @@
+Neste assignment, o objetivo era aperfeiçoar o assignment anterior a fim de adicionar um campo "education".
+O campo education faz uso do jquery para autocompletar seus campos através de uma consulta assíncrona com o banco, desse modo, não é necessário atualizar a página.
+Além disso, utilizou-se também a tabela "education" que possui relação muitos para muitos. Portanto, foi necessário uma consulta mais complexa para reesgatar os dados de interesse.
